@@ -1,0 +1,13 @@
+D:\Code\FrameworkSample-DDD\FrameworkSample.DDD\FrameworkSample.DDD\bin\Debug\netcoreapp2.2\FrameworkSample.API.deps.json
+D:\Code\FrameworkSample-DDD\FrameworkSample.DDD\FrameworkSample.DDD\bin\Debug\netcoreapp2.2\FrameworkSample.API.runtimeconfig.json
+D:\Code\FrameworkSample-DDD\FrameworkSample.DDD\FrameworkSample.DDD\bin\Debug\netcoreapp2.2\FrameworkSample.API.runtimeconfig.dev.json
+D:\Code\FrameworkSample-DDD\FrameworkSample.DDD\FrameworkSample.DDD\bin\Debug\netcoreapp2.2\FrameworkSample.API.dll
+D:\Code\FrameworkSample-DDD\FrameworkSample.DDD\FrameworkSample.DDD\bin\Debug\netcoreapp2.2\FrameworkSample.API.pdb
+D:\Code\FrameworkSample-DDD\FrameworkSample.DDD\FrameworkSample.DDD\obj\Debug\netcoreapp2.2\FrameworkSample.API.csproj.CoreCompileInputs.cache
+D:\Code\FrameworkSample-DDD\FrameworkSample.DDD\FrameworkSample.DDD\obj\Debug\netcoreapp2.2\FrameworkSample.API.RazorAssemblyInfo.cache
+D:\Code\FrameworkSample-DDD\FrameworkSample.DDD\FrameworkSample.DDD\obj\Debug\netcoreapp2.2\FrameworkSample.API.RazorAssemblyInfo.cs
+D:\Code\FrameworkSample-DDD\FrameworkSample.DDD\FrameworkSample.DDD\obj\Debug\netcoreapp2.2\FrameworkSample.API.AssemblyInfoInputs.cache
+D:\Code\FrameworkSample-DDD\FrameworkSample.DDD\FrameworkSample.DDD\obj\Debug\netcoreapp2.2\FrameworkSample.API.AssemblyInfo.cs
+D:\Code\FrameworkSample-DDD\FrameworkSample.DDD\FrameworkSample.DDD\obj\Debug\netcoreapp2.2\FrameworkSample.API.RazorTargetAssemblyInfo.cache
+D:\Code\FrameworkSample-DDD\FrameworkSample.DDD\FrameworkSample.DDD\obj\Debug\netcoreapp2.2\FrameworkSample.API.dll
+D:\Code\FrameworkSample-DDD\FrameworkSample.DDD\FrameworkSample.DDD\obj\Debug\netcoreapp2.2\FrameworkSample.API.pdb
